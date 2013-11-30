@@ -14,4 +14,4 @@ For Performing Bulk operations on Database softwares , Hibernate people gave
 three types of Queries
 1.HQL Query
 2.Criteria Query
-3.SqlQery
+3.Native SQL Query
